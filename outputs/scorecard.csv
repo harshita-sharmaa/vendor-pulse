@@ -1,0 +1,11 @@
+rank,supplier_name,total_score,tier,delivery_score,quality_score,fill_score,price_score,on_time_pct,defect_ppm,fill_rate_pct,price_variance_pct,spend_share_pct
+1,Northwind Components,95.4,Preferred,100.0,86.0,98.0,99.0,96.8,4063.0,99.9,0.05,9.9
+2,Sierra Packaging,94.1,Preferred,100.0,90.0,88.0,97.0,95.3,3101.0,99.4,0.17,9.2
+3,Baltic Metalworks,86.9,Preferred,93.0,80.0,91.0,79.0,92.8,6117.0,99.5,1.07,9.6
+4,Pacific Circuit Co,85.3,Preferred,89.0,74.0,87.0,100.0,91.8,7908.0,99.4,-1.88,10.9
+5,Orion Fasteners,75.0,Approved,83.0,66.0,78.0,61.0,90.0,10133.0,98.9,1.93,9.1
+6,Granite Logistics Supply,71.2,Approved,73.0,76.0,76.0,41.0,86.8,7151.0,98.8,2.95,9.6
+7,Helix Polymers,65.8,Watchlist,93.0,33.0,91.0,5.0,92.8,20026.0,99.6,4.76,10.4
+8,Monsoon Electricals,62.8,Watchlist,40.0,70.0,79.0,100.0,77.0,9017.0,99.0,-0.17,10.4
+9,Delta Plastics,51.2,At risk,28.0,50.0,75.0,100.0,73.4,15033.0,98.8,-2.83,10.6
+10,Lotus Cable Works,33.1,At risk,25.0,0.0,65.0,100.0,72.6,30133.0,98.2,-4.03,10.3

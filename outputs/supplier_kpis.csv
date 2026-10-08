@@ -1,0 +1,11 @@
+supplier_id,supplier_name,region,category,po_count,total_spend,on_time_pct,avg_lead_time_days,avg_days_late,defect_ppm,fill_rate_pct,price_variance_pct
+1,Northwind Components,North America,Electronics,315,9437684.0,96.8,12.6,0.26,4063.0,99.9,0.05
+2,Pacific Circuit Co,Asia,Electronics,331,10394179.0,91.8,28.9,0.57,7908.0,99.4,-1.88
+3,Baltic Metalworks,Europe,Metals,292,9113445.0,92.8,12.8,0.55,6117.0,99.5,1.07
+4,Sierra Packaging,North America,Packaging,299,8730492.0,95.3,12.8,0.43,3101.0,99.4,0.17
+5,Delta Plastics,Asia,Plastics,323,10131238.0,73.4,30.0,2.09,15033.0,98.8,-2.83
+6,Orion Fasteners,Europe,Metals,270,8669508.0,90.0,13.1,0.66,10133.0,98.9,1.93
+7,Lotus Cable Works,Asia,Electronics,307,9855082.0,72.6,30.4,2.07,30133.0,98.2,-4.03
+8,Granite Logistics Supply,North America,Packaging,281,9132692.0,86.8,13.3,1.01,7151.0,98.8,2.95
+9,Helix Polymers,Europe,Plastics,278,9919770.0,92.8,12.5,0.62,20026.0,99.6,4.76
+10,Monsoon Electricals,Asia,Electronics,304,9939078.0,77.0,30.0,1.76,9017.0,99.0,-0.17
